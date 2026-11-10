@@ -19,7 +19,7 @@ This project is an AI-powered Predictive Early Warning System designed to antici
 > **حالة المشروع الحالية (تحديث 10 تشرين الثاني 2026):** نحن الآن في **نهاية الأسبوع الأول** من التطوير، حيث يقوم كل عضو بتنفيذ مهامه المستقلة بالتوازي وفق الجدول الزمني.
 
 ### 🖼️ Project Structure Diagram | مخطط هيكل المشروع
-![Project Roadmap](Project-Structure/project_roadmap.jpg)
+![Project Roadmap](Project-Structures/project_roadmap.jpg)
 
 
 ---
