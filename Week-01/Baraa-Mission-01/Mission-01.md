@@ -5,7 +5,11 @@
  من باب التخفيف عملت Data Cleaning وPreprocessing مبدئي لبيانات الشوارع وعالجت القيم الناقصة وفحصت التكرارات وجهزت نسخة Cleaned للاستفادة منها بالمراحل الجاية 
 جمعت الملفات كلها بملف ZIP واحد عشان نستخدمها بالمراحل الجاية
 ملاحظة باقي الملفات بتحتاج فحص ومعالجة إضافية قبل استخدامها في النموذج
+<br>
+</br>
 
+<br>
+</br>
 مصادر البيانات المستخدمة 
 
 * NYC Open Data: https://data.cityofnewyork.us/
@@ -13,6 +17,11 @@
 * DSNY Snow Priority: https://data.cityofnewyork.us/City-Government/DSNY-Snow-Priority-Designation/sh4i-rsb8
 * NWS Weather Alerts API: https://api.weather.gov/alerts?area=NY
 
+<br>
+</br>
+
+<br>
+</br>
 
 Data Cleaning وPreprocessing مبدئي لبيانات الشوارع باستخدام Python على Google Colab
 أول إشي رفعت ملف الشوارع وكان فيه 122334 سجل و64 عمود وبعدها اخترت الأعمدة المهمة للمشروع مثل اسم الشارع ومعرف الشارع وطوله وعرضه وعدد المسارب واتجاه السير والإحداثيات الجغرافية
